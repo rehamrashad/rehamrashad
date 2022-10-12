@@ -35,5 +35,4 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 -----
   
-![Reham's github stats](https://github-readme-stats.vercel.app/api?username=rehamrashad&show_icons=true&theme=tokyonight) ![Reham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rehamrashad&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight)
+![Reham's github stats](https://github-readme-stats.vercel.app/api?username=rehamrashad&show_icons=true&theme=tokyonight) 
